@@ -1,4 +1,3 @@
-... (insert recreated README contents above)
 # Module 19 Challenge README
 
 ## Introduction
